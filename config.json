@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cartstringify",
+        "uuid": 10801800,
+        "checksum": "5xquug"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
